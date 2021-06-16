@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pagerank", "Pagerank\Pagerank.pyproj", "{94F30A3C-C436-4C79-A883-57DEEB96B21C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F30A3C-C436-4C79-A883-57DEEB96B21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F30A3C-C436-4C79-A883-57DEEB96B21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA00EEB2-1A4A-49DB-9755-D8A907D8C3EA}
+	EndGlobalSection
+EndGlobal
